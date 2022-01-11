@@ -8,10 +8,12 @@ public class Variabili {
     public static void main(String[] args) {
         
         /* Dichiarazione ed Inizializzazione */
-        int myInt; /* dichiarazione */
-        myInt = 10; /* inizializzazione */
-    
-        int number = 10; /* dichiarazione ed inizializzazione */
+        int variable1; /* dichiarazione */
+        variable1 = 10; /* inizializzazione */
+        
+        System.out.println(variable1); /* Stampo il contenuto di una variabile */
+
+        int variable2 = 10; /* dichiarazione ed inizializzazione */
     
         /* In Java abbiamo 8 tipi di dato primitivi */
         int myNum = 5;              // Integer
