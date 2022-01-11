@@ -39,7 +39,7 @@ String testo = “Ciao mondo!”;
 - **Parametri**: Vengono dichiarati all’interno delle parentesi tonde di un determinato metodo.
 
 ```Java
-package it.corso.java;
+package it.variabili.java;
 
 public class VitaDaCoder {
 	public int a = 10; // Variabile di istanza
